@@ -94,3 +94,5 @@ The course covers emerging ICT technologies, hardware and software fundamentals,
     </tr>
   </tbody>
 </table>
+
+The course provided an extensive overview of ICT, blending theoretical knowledge with practical insights into hardware, software, databases, and networking. Industry talks and visits, including the upcoming ones to Petronas & Huawei, have enriched my understanding of real-world applications. One of my suggestions to improve the lectures is by presenting the topic shortly beforehand then can continue with WBL learning so students have a foundation of each topic before presenting.
